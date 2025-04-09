@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I am passionate about coding, AI/ML, and exploring
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 - ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![JAVA](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 
 
 ---
