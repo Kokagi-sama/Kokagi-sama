@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I am passionate about coding, AI/ML, and exploring
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 - ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
 - ![LAMP](https://img.shields.io/badge/-LAMP-FFD700?logo=linux&logoColor=black)
 
@@ -27,6 +26,7 @@ Welcome to my GitHub profile! I am passionate about coding, AI/ML, and exploring
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 - ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
 ---
 
