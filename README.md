@@ -1,19 +1,4 @@
-## Hi there 👋
 
-<!--
-**Kokagi-sama/Kokagi-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <img src="URL_TO_YOUR_GIF.gif" alt="Kokagi-sama" width="400px" />
 </div>
@@ -27,14 +12,14 @@ Welcome to my GitHub profile! I am passionate about coding, AI/ML, and exploring
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
-- ![Java](https://img.shields.io/badge/-Java-5C2D91?logo=java&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 - ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
 - ![LAMP](https://img.shields.io/badge/-LAMP-FFD700?logo=linux&logoColor=black)
 
 ### **AI/ML Tools**
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
-- ![Mediapipe](https://img.shields.io/badge/-Mediapipe-4285F4?logo=google)
+- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+- ![Mediapipe](https://img.shields.io/badge/-Mediapipe-4285F4?logo=google&logoColor=white)
 
 ### **Programming Languages**
 - ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell)
@@ -48,5 +33,13 @@ Welcome to my GitHub profile! I am passionate about coding, AI/ML, and exploring
 ## 📈 GitHub Stats
 
 [![Kokagi-sama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kokagi-sama&show_icons=true&theme=radical)](https://github.com/Kokagi-sama)
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](YOUR_LINKEDIN_URL)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](YOUR_TWITTER_URL)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square)](YOUR_PORTFOLIO_URL)
 
 ---
