@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I am passionate about coding, AI/ML, and exploring
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
-- ![Kava](https://img.shields.io/badge/-Kava-5C2D91?logo=kava&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-5C2D91?logo=java&logoColor=white)
 - ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
 - ![LAMP](https://img.shields.io/badge/-LAMP-FFD700?logo=linux&logoColor=black)
 
