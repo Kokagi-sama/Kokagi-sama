@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="URL_TO_YOUR_GIF.gif" alt="Kokagi-sama" width="400px" />
+  <img src="images/Kokagi.png" alt="Kokagi-sama" width="400px" />
 </div>
 
 # 👋 Hello, I'm Kokagi-sama!
