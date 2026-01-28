@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I am passionate about coding, AI/ML, and exploring
 
 ## 📈 GitHub Stats
 
-[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Koakgi-sama&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kokagi-sama&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 | | |
 |:---:|:---:|
