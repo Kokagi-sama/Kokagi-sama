@@ -33,14 +33,18 @@ Welcome to my GitHub profile! I am passionate about coding, AI/ML, and exploring
 
 ## 📈 GitHub Stats
 
-[![Kokagi-sama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kokagi-sama&show_icons=true&theme=radical)](https://github.com/Kokagi-sama)
+[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tinaabishegan&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+| | |
+|:---:|:---:|
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=tinaabishegan&count_private=true&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinaabishegan&theme=radical&layout=compact) |
+
+---
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](YOUR_LINKEDIN_URL)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](YOUR_TWITTER_URL)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/royceton-yeoh-tze-jian-02a404283/)  
+<a href="mailto:royceton03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 
 ---
