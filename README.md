@@ -113,6 +113,16 @@ Hi, I'm Royceton! Here is a little about me:
   * **Tech Stack:** Python, Triton, PyTorch, CUDA, GPU Profiling
   * **Link:** [See Project 🔗](https://github.com/Kokagi-sama/Machine-Learning-Systems)
 
+* **🌺 Interactive Floral Segmentation Engine**
+  * **Description:** Interactive GUI application solving a flower segmentation problem using core image processing algorithms such as flood fill and contour search.
+  * **Tech Stack:** Python, OpenCV, NumPy, Tkinter/PyQt
+  * **Link:** [See Project 🔗](https://github.com/Kokagi-sama/COMP2032-Group_012-Image-Processing)
+ 
+* **🎯 Metaheuristic Framework for 1D Bin Packing**
+  * **Description:** Java-based framework implementing metaheuristic algorithms (GA, SA, ACO, AFDO, Perturbation-MBS) to solve the one-dimensional bin packing problem and other combinatorial optimisation tasks.
+  * **Tech Stack:** Java, Maven, Metaheuristics, Combinatorial Optimisation
+  * **Link:** [See Project 🔗](https://github.com/Kokagi-sama/COMP2024_Group_23_Artificial_Intelligence_Method)
+
 ### 🌐 Web & Software Development
 
 * **🚗 Royce Rentals (Cross-Platform Car Rental App)**
