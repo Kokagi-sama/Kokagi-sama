@@ -106,7 +106,12 @@ Hi, I'm Royceton! Here is a little about me:
 * **🤖 Multi-Agent Reinforcement Learning with DQN**
   * **Description:** Multi-agent Deep Q-Network (DQN) implementation for CartPole and LunarLander environments, featuring noise injection for robustness testing and custom barrier function rewards.
   * **Tech Stack:** Python, Reinforcement Learning, Multi-Agent DQN, OpenAI Gym
-  * **Link:** [See Project 🔗](#)
+  * **Link:** [See Project 🔗](https://github.com/Kokagi-sama/Autonomous-Robotics-Systems)
+ 
+* **⚡ GPU Kernel Optimization for Real-Time ASR**
+  * **Description:** Hardware-aware Triton implementation for GLM-ASR achieving a 3.89× speedup on NVIDIA H200 via FlashAttention, BF16 caching, and fused MLP kernels.
+  * **Tech Stack:** Python, Triton, PyTorch, CUDA, GPU Profiling
+  * **Link:** [See Project 🔗](https://github.com/Kokagi-sama/Machine-Learning-Systems)
 
 ### 🌐 Web & Software Development
 
