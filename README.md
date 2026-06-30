@@ -14,7 +14,7 @@ Hi, I'm Royceton! Here is a little about me:
 
 * 🎓 **Education:**
   * MSc in Computer Science @ the **University of Edinburgh**
-  * BSc Hons with Distinction @ the **University of Nottingham**
+  * BSc (Hons) First Class Honour in Computer Science with Artificial Intelligence @ the **University of Nottingham**
 * 💻 **Interests:** Building things at the intersection of AI, systems, and software engineering.
 * 🗣️ **Languages:** Fluent in English, Malay, and Mandarin.
 * ♟️ **Hobbies:** Big chess fan (I love teaching tactics to beginners) and an avid philatelists.
