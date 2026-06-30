@@ -24,11 +24,11 @@ Hi, I'm Royceton! Here is a little about me:
 ---
 
 ## 📑 Table of Contents
-- [👤 About Me](##-about-me)
-- [🛠️ Tech Stack](##-tech-stack)
-- [💼 Featured Projects](##-featured-projects)
-- [📈 GitHub Stats](##-github-stats)
-- [🔗 Connect With Me](##-connect-with-me)
+- [👤 About Me](#-about-me)
+- [🛠️ Tech Stack](#%EF%B8%8F-tech-stack)
+- [💼 Featured Projects](#-featured-projects)
+- [📈 GitHub Stats](#-github-stats)
+- [🔗 Connect With Me](#-connect-with-me)
 
 ---
 
