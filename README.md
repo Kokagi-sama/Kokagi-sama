@@ -35,47 +35,47 @@ Hi, I'm Royceton! Here is a little about me:
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-<a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"></a>
-<a href="#"><img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black" alt="C"></a>
-<a href="#"><img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++"></a>
-<a href="#"><img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"></a>
-<a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"></a>
-<a href="#"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" alt="Solidity"></a>
-<a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"></a>
-<a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell" alt="Haskell"></a>
+<a href="#programming-languages"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"></a>
+<a href="#programming-languages"><img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"></a>
+<a href="#programming-languages"><img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black" alt="C"></a>
+<a href="#programming-languages"><img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++"></a>
+<a href="#programming-languages"><img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"></a>
+<a href="#programming-languages"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"></a>
+<a href="#programming-languages"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"></a>
+<a href="#programming-languages"><img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" alt="Solidity"></a>
+<a href="#programming-languages"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"></a>
+<a href="#programming-languages"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"></a>
+<a href="#programming-languages"><img src="https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell" alt="Haskell"></a>
 
 ### 🧠 AI, ML & Data Science
-<a href="#"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"></a>
-<a href="#"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
-<a href="#"><img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Mediapipe-4285F4?logo=google&logoColor=white" alt="Mediapipe"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"></a>
-<a href="#"><img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white" alt="Matplotlib"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Triton-2496ED" alt="Triton"></a>
+<a href="#ai-ml--data-science"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"></a>
+<a href="#ai-ml--data-science"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+<a href="#ai-ml--data-science"><img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV"></a>
+<a href="#ai-ml--data-science"><img src="https://img.shields.io/badge/-Mediapipe-4285F4?logo=google&logoColor=white" alt="Mediapipe"></a>
+<a href="#ai-ml--data-science"><img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
+<a href="#ai-ml--data-science"><img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"></a>
+<a href="#ai-ml--data-science"><img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"></a>
+<a href="#ai-ml--data-science"><img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white" alt="Matplotlib"></a>
+<a href="#ai-ml--data-science"><img src="https://img.shields.io/badge/-Triton-2496ED" alt="Triton"></a>
 
 ### 🌐 Web, Mobile & Cloud Infrastructure
-<a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"></a>
-<a href="#"><img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white" alt="Vite"></a>
-<a href="#"><img src="https://img.shields.io/badge/-LAMP-FFD700?logo=linux&logoColor=black" alt="LAMP"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"></a>
+<a href="#web-mobile--cloud-infrastructure"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"></a>
+<a href="#web-mobile--cloud-infrastructure"><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"></a>
+<a href="#web-mobile--cloud-infrastructure"><img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"></a>
+<a href="#web-mobile--cloud-infrastructure"><img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"></a>
+<a href="#web-mobile--cloud-infrastructure"><img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white" alt="Vite"></a>
+<a href="#web-mobile--cloud-infrastructure"><img src="https://img.shields.io/badge/-LAMP-FFD700?logo=linux&logoColor=black" alt="LAMP"></a>
+<a href="#web-mobile--cloud-infrastructure"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker"></a>
+<a href="#web-mobile--cloud-infrastructure"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
+<a href="#web-mobile--cloud-infrastructure"><img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"></a>
 
 ### 🛠️ Concepts & Developer Tools
-<a href="#"><img src="https://img.shields.io/badge/-Reinforcement%20Learning-4B8BBE" alt="Reinforcement Learning"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Constraint%20Programming-FF6F00" alt="Constraint Programming"></a>
-<a href="#"><img src="https://img.shields.io/badge/-SMT%20Solvers-239120" alt="SMT Solvers"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git"></a>
-<a href="#"><img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white" alt="LaTeX"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux"></a>
+<a href="#concepts--developer-tools"><img src="https://img.shields.io/badge/-Reinforcement%20Learning-4B8BBE" alt="Reinforcement Learning"></a>
+<a href="#concepts--developer-tools"><img src="https://img.shields.io/badge/-Constraint%20Programming-FF6F00" alt="Constraint Programming"></a>
+<a href="#concepts--developer-tools"><img src="https://img.shields.io/badge/-SMT%20Solvers-239120" alt="SMT Solvers"></a>
+<a href="#concepts--developer-tools"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git"></a>
+<a href="#concepts--developer-tools"><img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white" alt="LaTeX"></a>
+<a href="#concepts--developer-tools"><img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux"></a>
 
 ---
 
