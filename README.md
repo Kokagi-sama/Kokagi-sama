@@ -12,12 +12,13 @@ Welcome to my GitHub profile! I'm passionate about coding, AI/ML, and exploring 
 
 Hi, I'm Royceton! Here is a little about me:
 
+* 💼 **Work:** **AI Software Engineer** @ **Inari Technology Sdn Bhd**
 * 🎓 **Education:**
-  * MSc in Computer Science @ the **University of Edinburgh**
-  * BSc (Hons) First Class Honours in Computer Science with Artificial Intelligence @ the **University of Nottingham**
+  * MSc in Computer Science @ the **University of Edinburgh** (**Merit**)
+  * BSc (Hons) in Computer Science with Artificial Intelligence @ the **University of Nottingham** (**First Class Honours**)
 * 💻 **Interests:** Building things at the intersection of AI, systems, and software engineering.
 * 🗣️ **Languages:** Fluent in English, Malay, and Mandarin.
-* ♟️ **Hobbies:** Big chess fan (I love teaching tactics to beginners) and an avid philatelists.
+* ♟️ **Hobbies:** Big chess fan (I love teaching tactics to beginners) and an avid philatelist.
 * 📧 **Email:** [royceton03@gmail.com](mailto:royceton03@gmail.com)
 * 🌐 **Portfolio:** [github.com/Kokagi-sama](https://github.com/Kokagi-sama)
 
@@ -107,7 +108,7 @@ Hi, I'm Royceton! Here is a little about me:
 * **🖥️ Distributed Fileserver Architecture**
   * **Description:** Fault-tolerant distributed file server (AFS) featuring coordinator-based replication, task management, and gRPC-based communication for distributed computation.
   * **Tech Stack:** Python, gRPC, Distributed Systems
-  * **Link:** [See Project 🔗](https://github.com/Kokagi-sama/Distributed-Systems)
+  * **Link:** [See Project 🔗](https://github.com/Kokagi-sama/Distributed_Systems_Coursework)
 
 * **🎨 Decentralized Vickrey NFT Auction**
   * **Description:** Secure smart contract system for second-price sealed-bid auctions of ERC721 NFTs, utilizing a commit-reveal scheme to prevent front-running and a web-based cryptographic commitment generator.
