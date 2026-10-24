@@ -118,8 +118,8 @@ Hi, I'm Royceton! Here is a little about me:
 ---
 
 ## 📈 GitHub Stats
-
-[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kokagi-sama&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+[![Kokagi's github activity graph](https://github-readme-activity-graph-two-kappa.vercel.app/graph?username=Kokagi-sama&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
